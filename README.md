@@ -6,3 +6,6 @@ facebook
 messenger
 whatsapp
 tiktik
+
+# skills 
+este es el parrafo de skills
