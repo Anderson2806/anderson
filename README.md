@@ -6,3 +6,6 @@ facebook
 messenger
 whatsapp
 tiktik
+
+# tech
+esto es párrafo de tech
